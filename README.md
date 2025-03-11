@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EllieAlavi
+- 👋 Hi, I’m @Lavendercaterpillar
 👀 I’m interested in software development, problem-solving, and building impactful projects.
 🌱 I’m currently learning full-stack development at Ada Developers Academy.
 💞️ I’m looking to collaborate on beginner-friendly projects, open-source contributions, and anything that helps me grow as a developer.
